@@ -1,2 +1,5 @@
 # Windows-Named-Pipes-Shell
-Windows named pipe create from C# communicating with a shell command. The example uses MORE.
+The Windows named pipe is created from C# and is communicating with a shell command. The example uses MORE.
+
+https://dataandtechnology.wordpress.com/2018/12/18/windows-named-pipes-with-net-and-shell-commands/
+
